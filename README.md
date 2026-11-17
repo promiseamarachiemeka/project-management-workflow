@@ -44,7 +44,7 @@ A sample project coordination workflow built with **ClickUp, monday.com, Asana a
 - Using different tools for different team needs
 
 ## Screenshots
-(Screenshots of my sample boards will be added here.)
+attached screenshot shows proven works 
 
 ## Contact
 Promise Amarachi Emeka | Upwork: https://www.upwork.com/freelancers/~01e831affd0e8da7f9 
